@@ -10,12 +10,10 @@ source.include_patterns = ebook_converter/i18n/*
 
 version = 1.1.0
 
-requirements = python3==3.11.9,
+requirements = python3,
     pillow,
     chardet,
-    ebooklib,
-    mobi,
-    lxml
+    ebooklib
 
 orientation = portrait
 fullscreen = 0
