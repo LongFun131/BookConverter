@@ -31,7 +31,7 @@ desktop.ini
 
 # PyInstaller
 *.manifest
-*.spec
+!buildozer.spec
 
 # Buildozer
 .buildozer/
