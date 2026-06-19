@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build
+*.spec.bak
+*.log
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Buildozer
+.buildozer/
+bin/
+bookconverter_build/
+
+# Test
+.pytest_cache/
+tests/fixtures/
+
+# Temp
+*.tmp
+*.bak

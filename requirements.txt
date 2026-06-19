@@ -1,0 +1,5 @@
+kivy>=2.3.0
+ebooklib>=0.18
+mobi>=0.4.0
+chardet>=5.0
+Pillow>=10.0
